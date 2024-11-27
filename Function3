@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <title>My Function</title>
+</head>
+
+<body>
+    <centre>
+        <h1 style="color:cyan">Life Is Good</h1>
+        <h3>Forrest Frank</h3>
+        <script>
+            var result = function (a, b) { return a * b };
+            document.write(result(12, 13));
+        </script>
+    </centre>
+</body>
+
+</html>
